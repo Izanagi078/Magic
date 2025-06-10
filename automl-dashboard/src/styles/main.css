@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.App header, .App footer {
+  background-color: #282c34;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+.dashboard {
+  padding: 20px;
+}
+
+.model-cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.model-card {
+  border: 1px solid #ccc;
+  padding: 15px;
+  width: 250px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+}
