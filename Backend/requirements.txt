@@ -23,7 +23,6 @@ itsdangerous==2.2.0
 Jinja2==3.1.6
 libclang==18.1.1
 MarkupSafe==3.0.2
-mkl-service==2.4.0
 passlib==1.7.4
 pyasn1==0.4.8
 pycparser==2.22
